@@ -45,11 +45,11 @@ class CoverImage extends Component {
                      />
                  </nav>
                  <Header
-                    title={'fatty'}
+                    title={'delecious'}
                     imgUrl={stamp}
                     handlePageChange={handlePageChange}
                  >
-                 FATTY BURGER
+                 DELICIOUS BURGER
                  </Header>
             </div>
         );
