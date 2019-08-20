@@ -45,7 +45,7 @@ class CoverImage extends Component {
                      />
                  </nav>
                  <Header
-                    title={'delecious'}
+                    title={'fatty'}
                     imgUrl={stamp}
                     handlePageChange={handlePageChange}
                  >
