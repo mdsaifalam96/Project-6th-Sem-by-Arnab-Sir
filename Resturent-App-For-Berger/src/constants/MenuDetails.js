@@ -3,7 +3,7 @@
 const MenuDetails = [
     {
         title: 'Shack Burger',
-        description: 'Black Angus beef patty topped with American cheese, tomato, lettuce, and “Shack Sauce,” served in a grilled potato bun',
+        description: 'Black Angus chicken patty topped with American cheese, tomato, lettuce, and “Shack Sauce,” served in a grilled potato bun',
         className: 'shack_burger',
         image_title: 'chicken',
         imageClass: 'chicken',
@@ -13,7 +13,7 @@ const MenuDetails = [
     },
     {
         title: 'Signature',
-        description: 'It used to be a Secret but not any more! Our tribute to the King is a Cheddar Beef Patty',
+        description: 'It used to be a Secret but not any more! Our tribute to the King is a Cheddar Chicken Patty',
         className: 'signature',
         price: 1000,
         row: 1,
