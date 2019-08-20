@@ -21,7 +21,7 @@ class Header extends Component {
 
                                 {title === "fatty" ?
                                 <div class="banner_content">
-                                <p>A double layer of sear-sizzled 100% pure beef mingled with special sauce on a sesame seed bun and topped with melty American cheese, crisp lettuce, minced onions and tangy pickles.</p>
+                                <p>A double layer of sear-sizzled 100% pure chicken mingled with special sauce on a sesame seed bun and topped with melty American cheese, crisp lettuce, minced onions and tangy pickles.</p>
                                 <p>Based on pre-cooked patty weight.</p>							
                                 </div>
                                 :
